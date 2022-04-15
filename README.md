@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lara-data
+- 👀 I’m interested in music data
+- 🌱 I’m currently learning python_code
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 How to reach me: email me @ laraguiral@gmail.com
